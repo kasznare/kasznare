@@ -7,7 +7,7 @@ My name is **Andras Kasznar**, I'm a lead automation engineer from Budapest, Hun
 ## Short Bio
 
 Graduated first as an architectural designer Msc, then studied and got a masters degree Computer science.
-Helped various companies (Studio IN-EX, Melde, Éte, Merkbau) automate their engineering processes. Currently managing a small team of 5 people at Studio IN-EX.
+Helped various companies (Studio IN-EX, Melde, Éte, Merkbau) automate their engineering processes. Currently leading a small team of 5 people at Studio IN-EX.
 
 I held various positions as Lead software developer, BIM expert, Project Manager and Consultant.
 
