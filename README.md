@@ -1,24 +1,26 @@
 ### Hi there 👋
 
 
-My name is **Andras Kasznar**, I'm a lead automation engineer from Budapest, Hungary
+My name is **Andras Kasznar**, I'm a lead software engineer from Budapest, Hungary
 
 
 ## Short Bio
 
-Graduate architectural designer Msc, Computer Science Msc.
-Helped various companies (Royal Haskoning, Studio IN-EX, Melde, Éte, Merkbau, 3D Fire Bim) automate their engineering processes. 
+Graduate architect Msc, Computer Science Msc.
+Helped various companies automate their engineering processes. 
 I held various positions as Lead software developer, Project Manager and Consultant.
 
-Creating automation opportunities with software or low code solutions is the most impactful thing I can bring to the table. So I'm always **on the lookout for companies in the engineering sector** with a desire to automate.
+Creating automation opportunities with software or low code solutions is the most impactful thing I can bring to the table. So I'm always **happy to aid companies in the engineering sector** with a desire to automate.
 
 
 ## Achievements
 
 - Designed and created dynamo solutions for revit automation even before the first 1.0.0 release
+- Created Revit extension addins with C#
 - Created several standalone applications from the ground up
 - Adopted agile working methodologies and created rules and standards from scratch
 - Successfully migrated desktop .net applications to a .net core web platform with Blazor
+- Worked on cloud technologies with AWS and Azure
 
 ## More
 
